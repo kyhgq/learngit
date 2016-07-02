@@ -5,4 +5,3 @@ Git tracks changes of files.
 Add in mydev branch.
 Add sonething in master branch.
 Create a new branch is quick and simple.
-In a new dev.
